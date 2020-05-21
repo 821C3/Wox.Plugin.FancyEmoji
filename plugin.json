@@ -1,10 +1,10 @@
 {
   "ID": "FF2C31D6A47348FFB9ED4EB26F6794E2",
   "ActionKeyword": "e",
-  "Name": "Fancy Emoji",
+  "Name": "FancyEmoji",
   "Description": "Search for emoji and add to your clipboard automatically.",
   "Author": "821C3",
-  "Version": "1.0.0",
+  "Version": "1.1.0",
   "Language": "python",
   "Website": "https://twitter.com/bricejohner",
   "ExecuteFileName": "plugin.py",

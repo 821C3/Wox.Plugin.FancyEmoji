@@ -1,4 +1,4 @@
-﻿number,code,name,full name
+﻿number,code,name,keywords
 1,1F600,grinning face,grinning face; face; grin; grinning face
 2,1F603,grinning face with big eyes,grinning face with big eyes; face; grinning face with big eyes; mouth; open; smile
 3,1F604,grinning face with smiling eyes,grinning face with smiling eyes; eye; face; grinning face with smiling eyes; mouth; open; smile
@@ -817,7 +817,7 @@
 816,1F54C,mosque,mosque; islam; mosque; muslim; religion
 817,1F6D5,hindu temple,hindu temple; hindu; temple
 818,1F54D,synagogue,synagogue; jew; jewish; religion; synagogue; temple
-819,26000000000,shinto shrine,shinto shrine; religion; shinto; shrine
+819,2.60E+10,shinto shrine,shinto shrine; religion; shinto; shrine
 820,1F54B,kaaba,kaaba; islam; kaaba; muslim; religion
 821,26F2,fountain,fountain; fountain
 822,26FA,tent,tent; camping; tent
